@@ -1,8 +1,8 @@
 package com.pankaj.gojek.`interface`
 
-import retrofit2.Call
+import com.pankaj.gojek.model.BaseResponse
 
 interface GithubApiContract {
 
-    fun getRepositories(callBack : (String) -> Unit): Call<String>
+    fun getRepositories(callBack : (BaseResponse) -> Unit)
 }
