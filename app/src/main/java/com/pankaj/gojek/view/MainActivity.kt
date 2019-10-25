@@ -1,7 +1,8 @@
-package com.pankaj.gojek
+package com.pankaj.gojek.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.pankaj.gojek.R
 
 class MainActivity : AppCompatActivity() {
 
