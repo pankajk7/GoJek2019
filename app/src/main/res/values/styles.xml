@@ -8,4 +8,10 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="border_button_stroke_green">
+        <item name="android:background">@drawable/bg_green_stroke_selector</item>
+        <item name="android:textColor">@color/green_color</item>
+        <item name="android:textSize">@dimen/cta_font_size</item>
+        <item name="android:foreground">?attr/selectableItemBackground</item>
+    </style>
 </resources>

@@ -30,4 +30,10 @@ class GithubRepoResponse {
 
     @SerializedName("currentPeriodStars")
     var currentPeriodStars: String? = null
+
+    @SerializedName("language")
+    var laguage: String? = null
+
+    @SerializedName("languageColor")
+    var laguageColor: String? = null
 }

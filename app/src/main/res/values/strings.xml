@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GoJek</string>
+    <string name="retry">Retry</string>
+    <string name="something_went_wrong">Something went wrong...</string>
+    <string name="an_allien_is_probably_blocking_your_signal">An allien is probably blocking your signal.</string>
+    <string name="not_available">N/A</string>
 </resources>
